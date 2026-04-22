@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Hajira Khan 🐝<br>interested in what happens beneath the surface — where most people stop looking.<br><br>🍀currently a cybersecurity student,<br>trying to understand how systems "actually behave" beyond theory.<br><br><br>> working on: building a strong base (and surviving my degree)<br>> learning: bits of cryptography, networking, and security — still exploring<br>> open to: interesting collabs in security / tech<br>> ask me about: whatever I’m figuring out this week<br><br>⚡ i do my best thinking when it’s just me and a quiet room<br>🎯 aiming to reach a point where i can look at a system and really know what’s going on<br>
+I'm Hajira Khan <br>interested in what happens beneath the surface — where most people stop looking.<br><br>🍀currently a cybersecurity student,<br>trying to understand how systems "actually behave" beyond theory.<br><br><br>> working on: building a strong base (and surviving my degree)<br>> learning: bits of cryptography, networking, and security — still exploring<br>> open to: interesting collabs in security / tech<br>> ask me about: whatever I’m figuring out this week<br><br>⚡ i do my best thinking when it’s just me and a quiet room<br>🎯 aiming to reach a point where i can look at a system and really know what’s going on<br>
 
 
 ## 🌐 Socials:
